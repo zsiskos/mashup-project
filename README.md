@@ -1,2 +1,4 @@
-# mashup-project
-Project was to create a website using a template from mashup to announce the launch of something using a mailchimp signup page
+# Mashup Project
+Aim was to use a template from Mashup to create a website that announces the launch of something using a mailchimp signup page.
+
+
